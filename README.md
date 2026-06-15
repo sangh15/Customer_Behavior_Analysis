@@ -9,7 +9,6 @@ The goal is to simulate a real-world business scenario, where data is used to im
 ![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
 ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-green)
 ![Power BI](https://img.shields.io/badge/Visualization-PowerBI-yellow)
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
 ---
 
