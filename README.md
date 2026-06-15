@@ -1,29 +1,33 @@
-
 # 🛒 Customer Behavior Analysis  
 
 ### 📊 End-to-End Data Analytics Project | Python • SQL • Power BI  
 
-![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
-![SQL](https://img.shields.io/badge/SQL-PostgreSQL-green)
-![Power BI](https://img.shields.io/badge/Visualization-PowerBI-yellow)
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)  
+![SQL](https://img.shields.io/badge/SQL-PostgreSQL-green)  
+![Power BI](https://img.shields.io/badge/Visualization-PowerBI-yellow)  
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)  
 
 ---
 
 ## 📌 Project Description  
 
-An end-to-end data analytics project focused on analyzing customer shopping behavior to uncover actionable insights on customer segmentation, spending patterns, and revenue drivers.  
-This project demonstrates how data can be transformed into meaningful business decisions using Python, SQL, and Power BI.
+An end-to-end data analytics project focused on analyzing customer shopping behavior to uncover key insights related to **customer segmentation, spending patterns, and revenue drivers**.
+
+This project demonstrates how data analytics techniques can be applied to transform raw transactional data into **meaningful business insights and strategic recommendations**.
 
 ---
 
 ## 🎯 Business Problem  
 
-Retail businesses often lack visibility into:
-- High-value customer segments  
-- Effectiveness of discount strategies  
-- Drivers of repeat purchases and subscriptions  
+Retail businesses often struggle to answer critical questions such as:
 
-This project addresses these gaps through structured data analysis and visualization.
+- Who are the most valuable customers?  
+- Do discounts improve revenue or reduce profitability?  
+- What drives repeat purchases and customer loyalty?  
+- Are subscription models effective in increasing revenue?  
+- Which customer segments contribute the most to overall sales?  
+
+This project addresses these challenges through structured data analysis and visualization.
 
 ---
 
@@ -31,91 +35,107 @@ This project addresses these gaps through structured data analysis and visualiza
 
 - **Records:** 3,900+ transactions  
 - **Features:** 18  
-- **Includes:**  
+- **Includes:**
   - Customer demographics (Age, Gender)  
   - Purchase behavior (Products, Categories, Amount)  
   - Engagement metrics (Discounts, Subscriptions, Ratings)  
+
+### Target Focus  
+
+- Customer segmentation  
+- Revenue contribution  
+- Purchase behavior patterns  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-| Layer            | Tools Used |
-|------------------|-----------|
-| Data Processing   | Python (Pandas, NumPy) |
-| Data Analysis     | SQL (PostgreSQL) |
-| Visualization     | Power BI |
+| Layer | Tools Used |
+|---------|-----------|
+| Data Processing | Python (Pandas, NumPy) |
+| Data Analysis | SQL (PostgreSQL) |
+| Visualization | Power BI |
 
 ---
 
 ## 🔄 Project Workflow  
-Data Collection → Data Cleaning → Feature Engineering → SQL Analysis → Dashboard → Insights
+
+1. Data Collection  
+2. Data Cleaning & Preprocessing  
+3. Feature Engineering  
+4. Exploratory Data Analysis (EDA)  
+5. SQL-Based Analysis  
+6. Data Visualization  
+7. Insight Generation & Dashboard Development  
 
 ---
-
-
 
 ## 🔧 Data Preparation  
 
 - Handled missing values using statistical imputation  
-- Standardized and cleaned dataset for consistency  
-- Performed feature engineering:
-  - Customer segmentation (New, Returning, Loyal)  
-  - Age group classification  
-  - Purchase frequency metrics  
+- Removed inconsistencies and standardized data  
+- Created derived features:
+  - Customer Segmentation (New, Returning, Loyal)  
+  - Age Group Classification  
+  - Purchase Frequency Metrics  
+- Prepared clean datasets for analysis and dashboarding  
 
 ---
 
 ## 📸 Dashboard Preview  
 
-> *(Replace with your actual screenshots)*  
-
-![Dashboard Overview](assets/dashboard_overview.png)  
-![Customer Segmentation](assets/customer_segments.png)  
-![Revenue Insights](assets/revenue_analysis.png)  
+![Dashboard Overview]<div class='tableauPlaceholder' id='viz1781538017265' style='position: relative'><noscript><a href='#'><img alt='ELECTRIC VEHICLE DATA ANALYSIS ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;EL&#47;ELECTRICVEHICLEDATAANALYSIS_17815379993910&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='ELECTRICVEHICLEDATAANALYSIS_17815379993910&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;EL&#47;ELECTRICVEHICLEDATAANALYSIS_17815379993910&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                  
 
 ---
 
 ## 🔍 Key Insights  
 
-- Subscribers generate significantly higher average revenue compared to non-subscribers  
 - Loyal customers contribute the largest share of total revenue  
-- Discount usage increases sales but indicates dependency for certain products  
-- Premium behaviors (e.g., express shipping) correlate with higher spending  
+- Subscribers generate higher average spending compared to non-subscribers  
+- Discounts increase sales volume but may reduce per-order profitability  
+- Premium behaviors (e.g., express shipping) are linked to high-value customers  
 - Revenue is concentrated among specific customer segments  
 
 ---
 
 ## 💡 Business Recommendations  
 
-- 🎯 Focus on high-value customer segments  
-- 🚀 Strengthen subscription-based offerings  
-- ⚖️ Optimize discount strategies for profitability  
-- 📈 Promote high-performing products  
+- Focus on retaining high-value (loyal) customers  
+- Strengthen subscription-based offerings  
+- Optimize discount strategies to balance revenue and profit  
+- Target marketing efforts toward high-performing customer segments  
+- Promote products that generate the highest revenue  
+
+---
+
+## 📈 Business Impact (Estimated)  
+
+- Potential **15–25% increase in revenue** through targeted strategies  
+- Improved **customer retention and engagement**  
+- Better **marketing ROI** using segmentation-based targeting  
 
 ---
 
 ## 📂 Project Structure  
-📁 Customer-Shopping-Analysis
-│── 📁 data/
-│── 📁 notebooks/
-│── 📁 sql/
-│── 📁 dashboard/
-│── 📁 assets/
-│── README.md
 
----
-
-
-## ▶️ How to Run  
-
-1. Clone the repository  
-```bash
-git clone https://github.com/yourusername/project-name
-Run Python scripts for preprocessing
-Load data into PostgreSQL
-Execute SQL queries
-Open Power BI dashboard
----
-
-
+```text
+Customer-Shopping-Analysis/
+│
+├── data/
+│   └── customer_data.csv
+│
+├── notebooks/
+│   └── analysis.ipynb
+│
+├── sql/
+│   └── queries.sql
+│
+├── dashboard/
+│   └── powerbi_dashboard.pbix
+│
+├── assets/
+│   └── dashboard_images/
+│
+├── README.md
+│
+└── requirements.txt
