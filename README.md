@@ -80,7 +80,7 @@ This project addresses these challenges through structured data analysis and vis
 ![Dashboard Overview]
 
 <p align="center">
-  <img src="dashboard.png" width="900">
+  <img src="Power BI dashboard.png" width="900">
 </p>
 ---
 
