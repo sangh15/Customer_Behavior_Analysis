@@ -49,6 +49,75 @@ This project addresses these gaps through structured data analysis and visualiza
 ---
 
 ## 🔄 Project Workflow  
+Data Collection → Data Cleaning → Feature Engineering → SQL Analysis → Dashboard → Insights
 
+---
+
+
+---
+
+## 🔧 Data Preparation  
+
+- Handled missing values using statistical imputation  
+- Standardized and cleaned dataset for consistency  
+- Performed feature engineering:
+  - Customer segmentation (New, Returning, Loyal)  
+  - Age group classification  
+  - Purchase frequency metrics  
+
+---
+
+## 📸 Dashboard Preview  
+
+> *(Replace with your actual screenshots)*  
+
+![Dashboard Overview](assets/dashboard_overview.png)  
+![Customer Segmentation](assets/customer_segments.png)  
+![Revenue Insights](assets/revenue_analysis.png)  
+
+---
+
+## 🔍 Key Insights  
+
+- Subscribers generate significantly higher average revenue compared to non-subscribers  
+- Loyal customers contribute the largest share of total revenue  
+- Discount usage increases sales but indicates dependency for certain products  
+- Premium behaviors (e.g., express shipping) correlate with higher spending  
+- Revenue is concentrated among specific customer segments  
+
+---
+
+## 💡 Business Recommendations  
+
+- 🎯 Focus on high-value customer segments  
+- 🚀 Strengthen subscription-based offerings  
+- ⚖️ Optimize discount strategies for profitability  
+- 📈 Promote high-performing products  
+
+---
+
+## 📂 Project Structure  
+📁 Customer-Shopping-Analysis
+│── 📁 data/
+│── 📁 notebooks/
+│── 📁 sql/
+│── 📁 dashboard/
+│── 📁 assets/
+│── README.md
+
+---
+
+---
+
+## ▶️ How to Run  
+
+1. Clone the repository  
+```bash
+git clone https://github.com/yourusername/project-name
+Run Python scripts for preprocessing
+Load data into PostgreSQL
+Execute SQL queries
+Open Power BI dashboard
+---
 
 
