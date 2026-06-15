@@ -2,9 +2,8 @@
 
 ### 📊 End-to-End Data Analytics Project | Python • SQL • Power BI  
 
-![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)  
-![SQL](https://img.shields.io/badge/SQL-PostgreSQL-green)  
-![Power BI](https://img.shields.io/badge/Visualization-PowerBI-yellow)  
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)  ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-green) ![Power BI](https://img.shields.io/badge/Visualization-PowerBI-yellow) 
+  
 
 ---
 
@@ -104,5 +103,15 @@ This project addresses these challenges through structured data analysis and vis
 
 ---
 
+## ▶️ How to Run
 
-.txt
+1. Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/customer-behavior-analysis.git
+cd customer-behavior-analysis
+```
+2. Run the Jupyter Notebook (`Customer_Behavior_Analysis.ipynb`) to clean and preprocess the data.
+3. Load the processed dataset into PostgreSQL and execute the SQL queries for analysis.
+4. Open `customer_behavior_dashboard.pbix` in Power BI Desktop.
+5. Refresh the data connection and explore the interactive dashboard and KPIs.
