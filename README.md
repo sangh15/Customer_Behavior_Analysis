@@ -85,11 +85,10 @@ This project addresses these challenges through structured data analysis and vis
 
 ## 🔍 Key Insights  
 
-- Loyal customers contribute the largest share of total revenue  
-- Subscribers generate higher average spending compared to non-subscribers  
-- Discounts increase sales volume but may reduce per-order profitability  
-- Premium behaviors (e.g., express shipping) are linked to high-value customers  
-- Revenue is concentrated among specific customer segments  
+- Loyal customers contribute the majority of revenue  
+- Subscribers show higher average order value  
+- Discounts increase sales volume but reduce profitability  
+- Revenue is concentrated among a small set of customer segments  
 
 ---
 
@@ -100,7 +99,7 @@ This project addresses these challenges through structured data analysis and vis
 - Optimize discount strategies to balance revenue and profit  
 - Target marketing efforts toward high-performing customer segments  
 - Promote products that generate the highest revenue  
-
+https://github.com/sangh15/Customer_Behavior_Analysis
 ---
 
 ## ▶️ How to Run
@@ -108,10 +107,9 @@ This project addresses these challenges through structured data analysis and vis
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/customer-behavior-analysis.git
+git clone https://github.com/sangh15/Customer_Behavior_Analysis
 cd customer-behavior-analysis
 ```
-2. Run the Jupyter Notebook (`Customer_Behavior_Analysis.ipynb`) to clean and preprocess the data.
-3. Load the processed dataset into PostgreSQL and execute the SQL queries for analysis.
-4. Open `customer_behavior_dashboard.pbix` in Power BI Desktop.
-5. Refresh the data connection and explore the interactive dashboard and KPIs.
+2. Run the notebook to preprocess the data.
+3. Load the dataset into PostgreSQL.
+4. Open the Power BI dashboard.
