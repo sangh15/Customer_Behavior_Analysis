@@ -84,7 +84,7 @@ This project addresses these challenges through structured data analysis and vis
 
 ## 📸 Dashboard Preview  
 
-![Dashboard Overview](https://public.tableau.com/app/profile/santra.richard/viz/ELECTRICVEHICLEDATAANALYSIS_17815379993910/Dashboard1)
+![Dashboard Overview]
 
 ---
 
