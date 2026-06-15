@@ -99,17 +99,12 @@ This project addresses these challenges through structured data analysis and vis
 - Optimize discount strategies to balance revenue and profit  
 - Target marketing efforts toward high-performing customer segments  
 - Promote products that generate the highest revenue  
-https://github.com/sangh15/Customer_Behavior_Analysis
+
 ---
 
 ## ▶️ How to Run
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/sangh15/Customer_Behavior_Analysis
-cd customer-behavior-analysis
-```
+1. Clone the repository
 2. Run the notebook to preprocess the data.
 3. Load the dataset into PostgreSQL.
 4. Open the Power BI dashboard.
