@@ -54,7 +54,6 @@ Data Collection → Data Cleaning → Feature Engineering → SQL Analysis → D
 ---
 
 
----
 
 ## 🔧 Data Preparation  
 
@@ -107,7 +106,6 @@ Data Collection → Data Cleaning → Feature Engineering → SQL Analysis → D
 
 ---
 
----
 
 ## ▶️ How to Run  
 
