@@ -5,7 +5,6 @@
 ![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)  
 ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-green)  
 ![Power BI](https://img.shields.io/badge/Visualization-PowerBI-yellow)  
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen)  
 
 ---
 
@@ -39,12 +38,6 @@ This project addresses these challenges through structured data analysis and vis
   - Customer demographics (Age, Gender)  
   - Purchase behavior (Products, Categories, Amount)  
   - Engagement metrics (Discounts, Subscriptions, Ratings)  
-
-### Target Focus  
-
-- Customer segmentation  
-- Revenue contribution  
-- Purchase behavior patterns  
 
 ---
 
@@ -86,6 +79,9 @@ This project addresses these challenges through structured data analysis and vis
 
 ![Dashboard Overview]
 
+<p align="center">
+  <img src="dashboard.png" width="900">
+</p>
 ---
 
 ## 🔍 Key Insights  
@@ -108,34 +104,5 @@ This project addresses these challenges through structured data analysis and vis
 
 ---
 
-## 📈 Business Impact (Estimated)  
 
-- Potential **15–25% increase in revenue** through targeted strategies  
-- Improved **customer retention and engagement**  
-- Better **marketing ROI** using segmentation-based targeting  
-
----
-
-## 📂 Project Structure  
-
-```text
-Customer-Shopping-Analysis/
-│
-├── data/
-│   └── customer_data.csv
-│
-├── notebooks/
-│   └── analysis.ipynb
-│
-├── sql/
-│   └── queries.sql
-│
-├── dashboard/
-│   └── powerbi_dashboard.pbix
-│
-├── assets/
-│   └── dashboard_images/
-│
-├── README.md
-│
-└── requirements.txt
+.txt
