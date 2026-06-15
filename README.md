@@ -76,7 +76,6 @@ This project addresses these challenges through structured data analysis and vis
 
 ## 📸 Dashboard Preview  
 
-![Dashboard Overview]
 
 <p align="center">
   <img src="Power BI dashboard.png" width="900">
