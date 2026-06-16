@@ -52,7 +52,7 @@ This project addresses these challenges through structured data analysis and vis
 
 ## 🔄 Project Workflow  
 
-1. Data Collection  
+1. Data Collection   
 2. Data Cleaning & Preprocessing  
 3. Feature Engineering  
 4. Exploratory Data Analysis (EDA)  
