@@ -9,9 +9,9 @@
 
 ## 📌 Project Description  
 
-An end-to-end data analytics project focused on analyzing customer shopping behavior to uncover key insights related to **customer segmentation, spending patterns, and revenue drivers**.
+An end-to-end data analytics project focused on analyzing customer shopping behavior to uncover key insights related to customer segmentation, spending patterns, and revenue drivers.
 
-This project demonstrates how data analytics techniques can be applied to transform raw transactional data into **meaningful business insights and strategic recommendations**.
+This project demonstrates how data analytics techniques can be applied to transform raw transactional data into meaningful business insights and strategic recommendations.
 
 ---
 
